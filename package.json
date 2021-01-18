@@ -1,0 +1,29 @@
+{
+  "name": "sdf-cli",
+  "version": "0.0.1",
+  "description": "快速创建react",
+  "main": "index.js",
+  "scripts": {
+    "test": "sdf -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1184118891/sdf-cli.git"
+  },
+  "keywords": [
+    "sdf-cli"
+  ],
+  "author": "shangdongfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1184118891/sdf-cli/issues"
+  },
+  "homepage": "https://github.com/1184118891/sdf-cli#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.5"
+  },
+  "devDependencies": {
+    "commander": "^7.0.0"
+  }
+}
